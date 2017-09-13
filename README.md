@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <style>
 body {
        background-color: rgb(0, 0, 0);
@@ -6,3 +8,4 @@ body {
       </body>
      </style> 
   
+</html>
